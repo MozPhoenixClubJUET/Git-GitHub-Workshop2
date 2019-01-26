@@ -1,0 +1,35 @@
+html {
+  background-color: #00539F;
+
+}
+
+h1{
+	background-color: white;
+	text-align: center;
+   	font-style: 'Open Sans', sans-serif;
+   	font-size: 50px;
+   }
+li{
+	text-align: center;
+}
+img{
+
+display: block;
+margin: 0 auto;}
+
+p
+{  
+background-color: white;
+color: red;
+border: 2px solid white;
+text-align: center;
+}
+
+body {
+
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 10px 20px 10px;
+  border: 5px solid black;
+}
